@@ -9,3 +9,15 @@
 //   .catch(err => {
 //       console.log(`error ${err}`)
 //   })
+// 
+//  6/14/2021 - Been working on lots of Javascript Algorithms from Scotch.io 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
