@@ -10,8 +10,8 @@
 //       console.log(`error ${err}`)
 //   })
 // 
-//  6/14/2021 - Been working on lots of Javascript Algorithms from Scotch.io 
-// 
+//  06/14/2021 - Been working on lots of Javascript Algorithms from Scotch.io 
+//  06/15/2021 - Commited reverse String into Scoth.io Ultimate guide to algortighms - COMPLETED
 // 
 // 
 // 
